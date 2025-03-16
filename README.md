@@ -1,2 +1,2 @@
 # data-science-projects-
-here are some data science projects that i make 
+"Here are some Data Science projects I’ve worked on:" 🚀📊
